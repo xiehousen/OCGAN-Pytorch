@@ -12,7 +12,7 @@ The author's implementation of *OCGAN* in MXNet is at [here](https://github.com/
 * Training log and training curve visualization code (see `./utils/logger.py`)
 
 ## Installation
-This code is written in `Python 3.7` and tested with `Pytorch 1.1.0`.
+This code is written in `Python 3.7` and tested with `Pytorch 1.2.0`.
 * Install [PyTorch](http://pytorch.org/)
 * Clone recursively
   ```
