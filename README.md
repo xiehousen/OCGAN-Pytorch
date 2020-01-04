@@ -1,7 +1,7 @@
 # OCGAN-Pytorch
 OCGAN - UnOfficial PyTorch Implementation
 
-This is the official PyTorch implementation of OCGAN. The code accompanies the paper "[OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations](http://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_OCGAN_One-Class_Novelty_Detection_Using_GANs_With_Constrained_Latent_Representations_CVPR_2019_paper.pdf)".
+This is the unofficial PyTorch implementation of OCGAN. The code accompanies the paper "[OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations](http://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_OCGAN_One-Class_Novelty_Detection_Using_GANs_With_Constrained_Latent_Representations_CVPR_2019_paper.pdf)".
 
 The author's implementation of *OCGAN* in MXNet is at [here](https://github.com/PramuPerera/OCGAN).
 
